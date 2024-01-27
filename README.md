@@ -1,4 +1,4 @@
-### Hi there 👋
+### Andrei Crisu Dev
 
 <!--
 **andrei-crisu/andrei-crisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
